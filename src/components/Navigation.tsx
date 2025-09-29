@@ -33,7 +33,7 @@ export const Navigation = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="text-xl font-bold text-primary animate-fade-in">
-            Roshani Yogaraj
+            Marin Roshani Edvin Yogaraj
           </div>
 
           {/* Desktop Navigation */}

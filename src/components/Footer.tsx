@@ -10,11 +10,9 @@ export const Footer = () => {
           {/* Left side - Name and tagline */}
           <div className="text-center md:text-left">
             <h3 className="text-xl font-bold text-text-primary mb-2">
-              Roshani Yogaraj
+            Marin Roshani Edvin Yogaraj
             </h3>
-            <p className="text-text-secondary text-sm">
-              Software Developer • Building digital experiences
-            </p>
+            <p className="text-text-secondary text-sm">Software Engineer</p>
           </div>
 
           {/* Center - Social Links */}
@@ -53,13 +51,6 @@ export const Footer = () => {
               <Heart size={14} className="text-primary" /> by Roshani Yogaraj
             </p>
           </div>
-        </div>
-
-        {/* Bottom strip */}
-        <div className="mt-10 pt-6 border-t border-border text-center">
-          <p className="text-text-muted text-xs">
-            Designed &amp; developed with modern web technologies
-          </p>
         </div>
       </div>
     </footer>
