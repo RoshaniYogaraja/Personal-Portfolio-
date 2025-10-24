@@ -200,14 +200,14 @@ export const Experience = () => {
                     Key Coursework:
                   </p>
                   <div className="flex flex-wrap gap-2">
-                    {edu.coursework.map((course) => (
+                    {/* {edu.coursework.map((course) => (
                       <span
                         key={course}
                         className="px-2 py-1 rounded-md border text-xs text-text-secondary"
                       >
                         {course}
                       </span>
-                    ))}
+                    ))} */}
                   </div>
                 </div>
               </div>
