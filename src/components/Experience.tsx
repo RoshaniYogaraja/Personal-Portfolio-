@@ -57,7 +57,7 @@ export const Experience = () => {
       institution: "University Of Kelaniya",
       degree: "B.Sc in Software Engineering",
       // period: "Jan 2018 - Mar 2021",
-      status: "Completed",
+      status: "Pending",
       // coursework: [
       //   "Software Engineering Principles",
       //   "System Design",
