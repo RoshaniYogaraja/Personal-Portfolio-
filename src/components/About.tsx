@@ -78,8 +78,9 @@ export const About = () => {
                 applications, and database management.
               </p>
               <p>
-                Currently pursuing my BSc in Computing &amp; Software Engineering
-                at Cardiff Metropolitan University, I combine academic knowledge
+                {/* Currently pursuing my BSc in Computing &amp; Software Engineering
+                at Cardiff Metropolitan University, */}
+                 I combine academic knowledge
                 with practical experience gained from working as an Associate
                 Software Engineer at NextGen Innovations.
               </p>
