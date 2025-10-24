@@ -196,9 +196,9 @@ export const Experience = () => {
                 </div>
 
                 <div>
-                  <p className="text-text-secondary text-sm font-medium mb-2">
+                  {/* <p className="text-text-secondary text-sm font-medium mb-2">
                     Key Coursework:
-                  </p>
+                  </p> */}
                   <div className="flex flex-wrap gap-2">
                     {/* {edu.coursework.map((course) => (
                       <span
