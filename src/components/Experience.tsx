@@ -54,39 +54,40 @@ export const Experience = () => {
 
   const education = [
     {
+      institution: "University Of Kelaniya",
+      degree: "Diploma in Software Engineering",
+      // period: "Jan 2018 - Mar 2021",
+      status: "Completed",
+      // coursework: [
+      //   "Software Engineering Principles",
+      //   "System Design",
+      //   "Programming Fundamentals",
+      // ],
+    },
+    {
       institution: "Cardiff Metropolitan University",
       degree: "BSc in Computing & Software Engineering",
       period: "Jan 2018 - Nov 2021",
       status: "Pending",
-      coursework: [
-        "Advanced Programming",
-        "Professional Issues in Technology",
-        "Analytics and Business Intelligence",
-        "Development Project",
-      ],
+      // coursework: [
+      //   "Advanced Programming",
+      //   "Professional Issues in Technology",
+      //   "Analytics and Business Intelligence",
+      //   "Development Project",
+      // ],
     },
-    // {
-    //   institution: "University Of Kelaniya",
-    //   degree: "Diploma in Software Engineering",
-    //   period: "Jan 2018 - Mar 2021",
-    //   status: "Completed",
-    //   coursework: [
-    //     "Software Engineering Principles",
-    //     "System Design",
-    //     "Programming Fundamentals",
-    //   ],
-    // },
+    
     {
       institution: "Cardiff Metropolitan University",
       degree: "HND",
       period: "Mar 2017 - Mar 2018",
       status: "Completed",
-      coursework: [
-        "Fundamentals of Programming",
-        "Database Management",
-        "Web Applications",
-        "Mobile Applications",
-      ],
+      // coursework: [
+      //   "Fundamentals of Programming",
+      //   "Database Management",
+      //   "Web Applications",
+      //   "Mobile Applications",
+      // ],
     },
   ];
 
